@@ -25,8 +25,4 @@ public class CustomerDemo {
 
 	}
 
-	public CustomerDemo() {
-		super();
-	}
-
 }
